@@ -37,11 +37,6 @@ body {
     left: 40px;
 }
 
-
-/* .logo:hover {
-    animation: moveInRight 1.25s ease-out;
-} */
-
 .logo {
     height: 40px;
 }
@@ -105,4 +100,7 @@ body {
         opacity: 1;
         transform: translate(0);
     }
+    /* .logo:hover {
+        animation: moveInRight 1.25s ease-out;
+    } */
 }
